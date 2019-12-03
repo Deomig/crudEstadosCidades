@@ -1,0 +1,191 @@
+[    
+    {
+        "id": 1,
+        "nome": "Acre", 
+        "sigla": "AC",
+        "data_criacao": "20/10/2019",
+        "data_atualizacao": "20/10/2019"       
+    },
+    {
+        "id": 2,
+        "nome": "Alagoas", 
+        "sigla": "AL",
+        "data_criacao": "20/10/2019",
+        "data_atualizacao": "20/10/2019"        
+    },
+    { 
+        "id": 2,
+        "nome": "Amapá", 
+        "sigla": "AP",
+        "data_criacao": "20/10/2019",
+        "data_atualizacao": "20/10/2019" 
+    },
+    {
+        "id": 2,
+        "nome": "Amazonas", 
+        "sigla": "AM",
+        "data_criacao": "20/10/2019",
+        "data_atualizacao": "20/10/2019"
+    },
+    {
+        "id": 3,
+        "nome": "Bahia", 
+        "sigla": "BA",
+        "data_criacao": "20/10/2019",
+        "data_atualizacao": "20/10/2019"
+    },
+    {
+        "id": 4,
+        "nome": "Ceará", 
+        "sigla": "CE",
+        "data_criacao": "20/10/2019",
+        "data_atualizacao": "20/10/2019"
+    },
+    {
+        "id": 5,
+        "nome": "Distrito Federal", 
+        "sigla": "DF",
+        "data_criacao": "20/10/2019",
+        "data_atualizacao": "20/10/2019"
+    },
+    {
+        "id": 6,
+        "nome": "Espírito Santo", 
+        "sigla": "ES",
+        "data_criacao": "20/10/2019",
+        "data_atualizacao": "20/10/2019"
+    },
+    {
+        "id": 7,
+        "nome": "Goiás", 
+        "sigla": "GO",
+        "data_criacao": "20/10/2019",
+        "data_atualizacao": "20/10/2019"
+    },
+    {
+        "id": 8,
+        "nome": "Maranhão", 
+        "sigla": "MA",
+        "data_criacao": "20/10/2019",
+        "data_atualizacao": "20/10/2019"
+    },
+    {
+        "id": 9,
+        "nome": "Mato Grosso", 
+        "sigla": "MT",
+        "data_criacao": "20/10/2019",
+        "data_atualizacao": "20/10/2019"
+    },
+    {
+        "id": 10,
+        "nome": "Mato Grosso do Sul", 
+        "sigla": "MS",
+        "data_criacao": "20/10/2019",
+        "data_atualizacao": "20/10/2019"
+    },
+    {
+        "id": 11,
+        "nome": "Minas Gerais", 
+        "sigla": "MG",
+        "data_criacao": "20/10/2019",
+        "data_atualizacao": "20/10/2019"
+    },
+    {
+        "id": 12,
+        "nome": "Pará", 
+        "sigla": "PA",
+        "data_criacao": "20/10/2019",
+        "data_atualizacao": "20/10/2019"
+    },
+    {
+        "id": 13,
+        "nome": "Paraíba", 
+        "sigla": "PB",
+        "data_criacao": "20/10/2019",
+        "data_atualizacao": "20/10/2019"
+    },
+    {
+        "id": 14,
+        "nome": "Paraná", 
+        "sigla": "PR",
+        "data_criacao": "20/10/2019",
+        "data_atualizacao": "20/10/2019"
+    },
+    {
+        "id": 15,
+        "nome": "Pernambuco", 
+        "sigla": "PE",
+        "data_criacao": "20/10/2019",
+        "data_atualizacao": "20/10/2019"
+    },
+    {
+        "id": 16,
+        "nome": "Piauí", 
+        "sigla": "PI",
+        "data_criacao": "20/10/2019",
+        "data_atualizacao": "20/10/2019"
+    },
+    {
+        "id": 17,
+        "nome": "Rio de Janeiro", 
+        "sigla": "RJ",
+        "data_criacao": "20/10/2019",
+        "data_atualizacao": "20/10/2019"
+    },
+    {
+        "id": 18,
+        "nome": "Rio Grande do Norte", 
+        "sigla": "RN",
+        "data_criacao": "20/10/2019",
+        "data_atualizacao": "20/10/2019"
+    },
+    {
+        "id": 19,
+        "nome": "Rio Grande do Sul", 
+        "sigla": "RS",
+        "data_criacao": "20/10/2019",
+        "data_atualizacao": "20/10/2019"
+    },
+    {
+        "id": 20,
+        "nome": "Rondônia", 
+        "sigla": "RO",
+        "data_criacao": "20/10/2019",
+        "data_atualizacao": "20/10/2019"
+    },
+    {
+        "id": 21,
+        "nome": "Roraima", 
+        "sigla": "RR",
+        "data_criacao": "20/10/2019",
+        "data_atualizacao": "20/10/2019"
+    },
+    {
+        "id": 22,
+        "nome": "Santa Catarina", 
+        "sigla": "SC",
+        "data_criacao": "20/10/2019",
+        "data_atualizacao": "20/10/2019"
+    },
+    {
+        "id": 23,
+        "nome": "São Paulo", 
+        "sigla": "SP",
+        "data_criacao": "20/10/2019",
+        "data_atualizacao": "20/10/2019"
+    },
+    {
+        "id": 24,
+        "nome": "Sergipe", 
+        "sigla": "SE",
+        "data_criacao": "20/10/2019",
+        "data_atualizacao": "20/10/2019"
+    },
+    {
+        "id": 25,
+        "nome": "Tocantins", 
+        "sigla": "TO",
+        "data_criacao": "20/10/2019",
+        "data_atualizacao": "20/10/2019"
+    }
+]

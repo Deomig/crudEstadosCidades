@@ -1,0 +1,37 @@
+.btn-header {
+  width: 100%;
+  padding: 30px 0 10px;
+  text-align: right;
+}
+
+.table-container {
+  padding: 20px 0;
+
+  tr {
+    cursor: pointer;
+  }
+  
+  .actions {
+    width: 18%;
+    text-align: center;
+  }
+}
+
+select {
+  width: 350px;
+}
+ 
+.fas {
+  font-family: 'fontawesome';
+}
+
+.modal-content, .modal-card {
+  margin: 0 auto;
+  max-height: calc(100vh - 40px);
+  width: 30%;
+  background: aliceblue;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
